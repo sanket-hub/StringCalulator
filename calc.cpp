@@ -1,10 +1,4 @@
-
-
-
-
-
-
-
+//sanket nikam
 
 
 #include "calc.h"
